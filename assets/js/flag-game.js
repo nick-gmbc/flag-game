@@ -7,8 +7,6 @@ document.addEventListener("DOMContentLoaded", function() {
     runGame();
 })
 
-
-
 const flagGameState = {
   countryName: [],
   countryCode: []
